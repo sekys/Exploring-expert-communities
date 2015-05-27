@@ -1,6 +1,6 @@
 ## Description
 Exploring expert communities from DBLP databases using Fuzzy K-Means and/or Gephi visualization program.
-Lukas Sekerak project for Discovery knowledge subject.
+Lukas Sekerak project for Discovering knowledge subject.
 More information at [paper](paper.pdf) and [presentation](presentation.pptx).
 
 ## Structure of the project
